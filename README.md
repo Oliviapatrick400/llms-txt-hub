@@ -1326,6 +1326,7 @@ Ich bin in den Bereichen Elektrotechnik und IT tätig. <sub>[llms.txt](https://w
 - ![Unkey favicon](https://www.google.com/s2/favicons?domain=unkey.com&size=128) **[Unkey](https://unkey.com)** - API key management and authentication platform <sub>[llms.txt](https://www.unkey.com/docs/llms.txt)</sub>
 - ![VoidMob favicon](https://www.google.com/s2/favicons?domain=voidmob.com&size=128) **[VoidMob](https://voidmob.com)** - Privacy-focused premium mobile proxies, non-VoIP SMS verification, and global eSIMs in one unified platform. Open-source MCP server for AI agents. <sub>[llms.txt](https://voidmob.com/llms.txt)</sub>
 - ![Whoisbg.com favicon](https://www.google.com/s2/favicons?domain=whoisbg.com&size=128) **[Whoisbg.com](https://whoisbg.com/)** - Bulgarian WHOIS lookup and domain intelligence platform. Provides real-time WHOIS data, DNS records, SSL certificates, SEO analysis, and 20+ other web tools. <sub>[llms.txt](https://whoisbg.com/llms.txt)</sub>
+- ![Havrenn & Co. favicon](https://www.google.com/s2/favicons?domain=havrenn.com) **[Havrenn & Co.](https://www.havrenn.com/)** - Shop Havrenn & Co. Official Brand for premium yet affordable leather jackets, coats, blazers & more. Trusted for quality, craftsmanship, & timeless styles <sub>[llms.txt](https://www.havrenn.com/llms.txt)</sub>
 
 <!-- LLMS-LIST:END -->
 
