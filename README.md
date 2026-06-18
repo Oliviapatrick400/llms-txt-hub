@@ -42,7 +42,7 @@ We organize projects into primary categories (🤖 **AI & ML**, 💻 **Developer
 A curated list of LLM-powered tools and resources with llms.txt implementation.
 
 ### 🔍 agency services
-
+- ![Havrenn & Co. favicon](https://www.google.com/s2/favicons?domain=havrenn.com) **[Havrenn & Co.](https://www.havrenn.com/)** - Shop Havrenn & Co. Official Brand for premium yet affordable leather jackets, coats, blazers & more. Trusted for quality, craftsmanship, & timeless styles <sub>[llms.txt](https://www.havrenn.com/llms.txt)</sub>
 - ![Agile Automation favicon](https://www.google.com/s2/favicons?domain=www.agileautomation.ca&size=128) **[Agile Automation](https://www.agileautomation.ca/)** - Extensive experience in automation software, controls and web application development for control solutions and IoT connected systems. <sub>[llms.txt](https://www.agileautomation.ca/llms.txt)</sub>
 - ![Agile IT | CMMC Compliance Consultant favicon](https://www.google.com/s2/favicons?domain=agileit.com&size=128) **[Agile IT | CMMC Compliance Consultant](https://agileit.com/)** - Agile IT offers expert CMMC consulting services to ensure business meets the US DoD cybersecurity standards. <sub>[llms.txt](https://agileit.com/llms.txt)</sub>
 - ![AssessNow favicon](https://www.google.com/s2/favicons?domain=assessnow.co.uk&size=128) **[AssessNow](https://assessnow.co.uk/)** - UK immigration eligibility assessments. Check if you meet the requirements for your visa in under 5 minutes. Instant results, based on Home Office guidance. <sub>[llms.txt](https://assessnow.co.uk/llms.txt)</sub>
